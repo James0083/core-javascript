@@ -1,6 +1,3 @@
-# core-javascript
-Study 'Core JavaScript'
-
 # Description
 
 [코어 자바스크립트](https://wikibook.co.kr/corejs/) 내용 정리 및 예제 실습      
